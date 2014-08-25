@@ -75,6 +75,8 @@ Pages become items in the navigation menu
   + Grades
   + Subjects
   + Availability
++ Discussion
+  + Discussion pages are regular pages with comments enabled
 
 ####Posts
 Posts are categorized and tagged and show up on the home page, and on category/tag pages 	
