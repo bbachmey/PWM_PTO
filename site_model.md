@@ -31,8 +31,8 @@ Pages become items in the navigation menu
         + Students
           + Birthdays
       + Calendar
-      
-
+      + Newsletter
+      + Photo album
   + Preschool Disabilities: 
     + Ms. Tonya Enderle
   + Grades (1-3)
@@ -81,3 +81,6 @@ Posts are categorized and tagged and show up on the home page, and on category/t
     + Summaries of the Principal's Information Evenings
   + LSDMC
     + Articles about the Local School Descision Making Committee
+
+####Media
+The media library is a collection of photos, videos, and documents. Each item in the media library has a Wordpress page and can be annotated with information about the item. Items in the media library can also be tagged and categorized.
