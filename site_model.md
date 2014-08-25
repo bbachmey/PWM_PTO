@@ -17,6 +17,9 @@ Pages become items in the navigation menu
   + Clubs
     + Chess
 + Parents
+  + Homework help
+    + Web resources
+  + Home assessments
 + Teachers
   + Preschool and Kindergarten Classes
     + Teacher
@@ -67,6 +70,11 @@ Pages become items in the navigation menu
   + Budget
   + Meetings
     + Meeting minutes
++ Tutors
+  + Names
+  + Grades
+  + Subjects
+  + Availability
 
 ####Posts
 Posts are categorized and tagged and show up on the home page, and on category/tag pages 	
