@@ -105,6 +105,8 @@ Posts are categorized and tagged and show up on the home page, and on category/t
     + Articles about the Local School Descision Making Committee
   + OAA
     + Ohio Academic Assessments
+  + PowerSchool
+    + A collection of posts about PowerSchool, which can then be aggregated onto a PowerSchool page
 
 ####Media
 The media library is a collection of photos, videos, and documents. Each item in the media library has a Wordpress page and can be annotated with a caption and description.
