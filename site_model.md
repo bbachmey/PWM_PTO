@@ -66,7 +66,18 @@ Posts are categorized and tagged and show up on the home page, and on category/t
 + Categories  
   + Events
   + Announcements
+  + Profiles
+    + Short articles profiling a single teacher
+  + Accomplishments
+    + Short articles profiling the accomplishments of a classroom
 + Tags
   + FAQ
+    + Posts tagged FAQ are aggregated on the FAQ page
   + Thank-You
+    + Thank you notes (for example, to the groups who present on Science Night)
   + Common-Core
+    + Articles about Common Core
+  + PIE
+    + Summaries of the Principal's Information Evenings
+  + LSDMC
+    + Articles about the Local School Descision Making Committee
