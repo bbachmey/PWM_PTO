@@ -20,6 +20,7 @@ Pages become items in the navigation menu
   + Homework help
     + Web resources
   + Home assessments
+  + Flyers
 + Teachers
   + Preschool and Kindergarten Classes
     + Teacher
@@ -36,6 +37,8 @@ Pages become items in the navigation menu
       + Calendar
       + Newsletter
       + Photo album
+      + Discussion
+        + Maybe we can put a discussion page up for each classroom
   + Preschool Disabilities: 
     + Ms. Tonya Enderle
   + Grades (1-3)
@@ -77,6 +80,8 @@ Pages become items in the navigation menu
   + Availability
 + Discussion
   + Discussion pages are regular pages with comments enabled
++ Surveys
+  + Need to look to see if there is a plugin we can use for surveys
 
 ####Posts
 Posts are categorized and tagged and show up on the home page, and on category/tag pages 	
