@@ -1,13 +1,15 @@
-##Content types
-###Pages
-- Pages become items in the navigation menu  
-###Posts
-- Posts are categorized and tagged and show up on the home page, and on category/tag pages 	
+##Content types  
+0. Pages
+Pages become items in the navigation menu  
+  + Committees
+    +Parent Academic Involvement
+    + Fundraising
 
-##Pages
-###Committees
-	Parent Academic Involvement
-	Fundraising
+
+    + 
+    + 
+    + 
+    + 
 	Event Planning
 		Science Night
 		End of the Year
@@ -21,9 +23,9 @@
 	Clubs
 		Chess
 
-###Parents
+####Parents
 
-###Teachers
+####Teachers
 	Preschool and Kindergarten Classes
 	Preschool Disabilities: 
 		Ms. Tonya Enderle
@@ -53,5 +55,18 @@
 		Ms. Austin
 	Music
 
-###FAQ
-	
+
+###Posts
+- Posts are categorized and tagged and show up on the home page, and on category/tag pages 	
+
+####FAQ
+
+####Events
+
+####Announcements
+
+
+###Tags
+
+
+###Categories
