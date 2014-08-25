@@ -82,6 +82,8 @@ Pages become items in the navigation menu
   + Discussion pages are regular pages with comments enabled
 + Surveys
   + Need to look to see if there is a plugin we can use for surveys
++ Library
+  + If we start a parent library, we should look at using the website to host a list of books, manage checkouts, keep reading lists, show popular books, add books from home libraries to provide as examples and possibly to lend
 
 ####Posts
 Posts are categorized and tagged and show up on the home page, and on category/tag pages 	
