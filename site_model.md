@@ -46,16 +46,13 @@ Pages become items in the navigation menu
   + Gym
     + Ms. Austin
   + Music
+
 ####Posts
-- Posts are categorized and tagged and show up on the home page, and on category/tag pages 	
+Posts are categorized and tagged and show up on the home page, and on category/tag pages 	
 
-####FAQ
-
-####Events
-
-####Announcements
-
-####Tags
-
-####Categories
-
++Categories  
+  + Events
+  + Announcements
++ Tags
+  + FAQ
+  + Thank-You
