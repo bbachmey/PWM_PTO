@@ -4,6 +4,7 @@
 1. Posts
 	- Post are categorized and tagged and show up on the home page, and on category/tag pages 	
 
+##Pages
 ###Committees
 	Parent Academic Involvement
 	Fundraising
