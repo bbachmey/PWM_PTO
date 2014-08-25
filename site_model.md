@@ -49,8 +49,7 @@ Pages become items in the navigation menu
 
 ####Posts
 Posts are categorized and tagged and show up on the home page, and on category/tag pages 	
-
-+Categories  
++ Categories  
   + Events
   + Announcements
 + Tags
