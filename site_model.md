@@ -1,4 +1,4 @@
-Committees
+###Committees
 	Parent Academic Involvement
 	Fundraising
 	Event Planning
@@ -14,7 +14,7 @@ Committees
 	Clubs
 		Chess
 
-Parents
+###Parents
 
 ###Teachers
 	Preschool and Kindergarten Classes
