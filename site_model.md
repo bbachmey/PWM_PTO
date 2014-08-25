@@ -1,8 +1,8 @@
 ##Content types
 ###Pages
-- Pages become items in the navigation menu
+- Pages become items in the navigation menu  
 ###Posts
-- Post are categorized and tagged and show up on the home page, and on category/tag pages 	
+- Posts are categorized and tagged and show up on the home page, and on category/tag pages 	
 
 ##Pages
 ###Committees
