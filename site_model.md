@@ -1,5 +1,5 @@
 ##Content types  
-0. Pages
+0. Pages  
 Pages become items in the navigation menu  
   + Committees
     +Parent Academic Involvement
