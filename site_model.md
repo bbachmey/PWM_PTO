@@ -19,6 +19,20 @@ Pages become items in the navigation menu
 + Parents
 + Teachers
   + Preschool and Kindergarten Classes
+    + Teacher
+      + Curriculum
+        + Classwork
+        + Homework
+        + Schedule
+      + Roster
+        + Teachers
+        + Assistants
+        + Room Parents
+        + Students
+          + Birthdays
+      + Calendar
+      
+
   + Preschool Disabilities: 
     + Ms. Tonya Enderle
   + Grades (1-3)
@@ -55,3 +69,4 @@ Posts are categorized and tagged and show up on the home page, and on category/t
 + Tags
   + FAQ
   + Thank-You
+  + Common-Core
