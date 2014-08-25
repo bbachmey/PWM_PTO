@@ -60,6 +60,13 @@ Pages become items in the navigation menu
   + Gym
     + Ms. Austin
   + Music
++ PTO Business
+  + Officers
+  + Elections
+  + Committees
+  + Budget
+  + Meetings
+    + Meeting minutes
 
 ####Posts
 Posts are categorized and tagged and show up on the home page, and on category/tag pages 	
@@ -81,6 +88,8 @@ Posts are categorized and tagged and show up on the home page, and on category/t
     + Summaries of the Principal's Information Evenings
   + LSDMC
     + Articles about the Local School Descision Making Committee
+  + OAA
+    + Ohio Academic Assessments
 
 ####Media
 The media library is a collection of photos, videos, and documents. Each item in the media library has a Wordpress page and can be annotated with a caption and description.
